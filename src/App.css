@@ -1,6 +1,15 @@
 body {
   background-color: #282c34;
+}
 
+.fusioncharts-container svg{
+  background-color: #282c34 !important;
+}
+
+.container__charts {
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .App {
